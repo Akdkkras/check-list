@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.li {
+    /*border: red solid 1px;*/
+
+    margin-top: 12px;
+    list-style: none;
+    display: flex;
+}
+
+.text {
+    font-family: "AmaticSC";
+    font-size: 130%;
+    text-decoration: line-through 1px;
+}

@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "AmaticSC";
+    src: url("../public/fonts/AmaticSC-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.li {
+    /*border: red solid 1px;*/
+
+    margin-top: 12px;
+    list-style: none;
+    display: flex;
+}
+
+.text {
+    font-family: "AmaticSC";
+    font-size: 130%;
+}
+
+.button1 {
+    margin: 0px 1px;
+    background-color: lightgreen;
+    align-items: center;
+    justify-content: center;
+    width: 25px;
+    height: 25px;
+    border-radius: 30px;
+}
+
+.button2 {
+    margin: 0px 1px;
+    background-color: #ff6d6d;
+    align-items: center;
+    justify-content: center;
+    width: 25px;
+    height: 25px;
+    border-radius: 30px;
+}
+
+.span {
+    margin-left: 8px;
+}
