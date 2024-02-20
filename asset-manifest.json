@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/check-list/static/css/main.37951d46.css",
+    "main.js": "/check-list/static/js/main.d035dbae.js",
+    "static/media/AmaticSC-Bold.ttf": "/check-list/static/media/AmaticSC-Bold.f12c1d887cda2131ac83.ttf",
+    "static/media/AmaticSC-Regular.ttf": "/check-list/static/media/AmaticSC-Regular.fd9971162ff94dc53856.ttf",
+    "index.html": "/check-list/index.html",
+    "main.37951d46.css.map": "/check-list/static/css/main.37951d46.css.map",
+    "main.d035dbae.js.map": "/check-list/static/js/main.d035dbae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37951d46.css",
+    "static/js/main.d035dbae.js"
+  ]
+}
